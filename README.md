@@ -1,2 +1,23 @@
 # Armillary
  Swift Student Challenge 2025
+
+Visualizing geocentric planetary movement with signal processing. Along with interactive explanation of Fourier Analysis.
+
+https://github.com/user-attachments/assets/aef25e27-4920-42cc-adb4-e3da19d8271a
+
+<div>
+  <img src="./demo/ss0.png" height="300">
+  <img src="./demo/ss1.png" height="300">
+  <img src="./demo/ss2.png" height="300">
+  <img src="./demo/ss3.png" height="300">
+  <img src="./demo/ss4.png" height="300">
+</div>
+
+## Technologies Used
+- SwiftUI
+- SceneKit
+
+Planet coordinates: [Horizon](https://github.com/0xdbug/Horizon)
+
+Textures: [Solar Textures](https://www.solarsystemscope.com/textures/)
+
