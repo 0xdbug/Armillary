@@ -1,0 +1,4 @@
+index_exclude:
+- Package.swift
+- '**/*?.build/**/*'
+- '**/SourcePackages/checkouts/**'
